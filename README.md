@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Bytesved Technologies**
 
-- 🌱 I’m currently working in **Front End Technologies**    
+- 🌱 I’m currently working in **MERN Technologies**    
 
 - 👨‍💻 All of my projects are available at [ashik's workspace]((https://github.com/patelashik17))
 
@@ -34,10 +34,17 @@
   </a>
 </p>
 
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,socket" />
+  </a>
+</p>
+
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase,render,netlify,aws" />
   </a>
 </p>
 
