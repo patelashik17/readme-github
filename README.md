@@ -6,7 +6,7 @@
   <h3>MERN Stack Developer | React.js | Next.js | Shopify | AI Integrations</h3>
   <p>Passionate developer from India who loves building scalable, interactive, and user-friendly web applications.</p>
   <p>
-    <a href="https://ashik-patel.netlify.app">Portfolio</a> •
+    <a href="https://ashik-patel-mern.netlify.app">Portfolio</a> •
     <a href="https://github.com/patelashik17">GitHub</a> •
     <a href="https://www.linkedin.com/in/patel-ashik-388639232">LinkedIn</a>
   </p>
@@ -23,7 +23,7 @@
 - 🤖 Exploring AI integrations and building AI-powered web applications
 - ⚡ Focused on performance optimization, reusable components, and clean code
 - 💬 Ask me about **JavaScript, React.js, Next.js, TypeScript, Redux, Node.js, and Shopify**
-- 🚀 Explore my work: [Portfolio](https://ashik-patel.netlify.app)
+- 🚀 Explore my work: [Portfolio](https://ashik-patel-mern.netlify.app)
 - 📫 Reach me at **patelashik2226@gmail.com**
 - ⚡ Fun fact: I turn coffee, curiosity, and code into projects! ☕💻
 
@@ -105,7 +105,7 @@ A document-sharing project focused on secure file handling and integrations.
 **Tech Stack:** Vite, browser extensions, Outlook integration, AdminJS, Lit Protocol
 
 <p align="left">
-  <a href="https://ashik-patel.netlify.app">
+  <a href="https://ashik-patel-mern.netlify.app">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-Visit-blue?style=for-the-badge" alt="Visit Portfolio" />
   </a>
   <a href="https://github.com/patelashik17?tab=repositories">
